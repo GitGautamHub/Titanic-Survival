@@ -12,12 +12,8 @@ Explore the Titanic dataset to understand factors influencing survival using EDA
 
 ## Machine Learning Models
 
-Evaluate various ML algorithms:
+ ML algorithm used:
 - Logistic Regression
-- Decision Trees
-- Random Forests
-- Support Vector Machines
-- K-Nearest Neighbors
 
 ## Main Libraries and Tools
 
